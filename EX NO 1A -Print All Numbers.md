@@ -21,8 +21,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 ## Program:
 ```
-Developed by:PREM R
-Register number:212223240124
+Developed by: V B Laksha
+Register number:212224220051
 */Implementation of  print all numbers*/
 
 
